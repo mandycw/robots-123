@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-ninja"
+	BuildStamp="20260209-0439-Experimental"
+	Name="LAPTOP-CL254KVE"
+	Generator="ctest-4.2.1"
+	CompilerName="C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/cl.exe"
+	CompilerVersion="19.50.35721.0"
+	OSName="Windows"
+	Hostname="LAPTOP-CL254KVE"
+	OSRelease="10.0.26100"
+	OSVersion="Windows 10"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="10"
+	ModelName=""
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="10"
+	TotalVirtualMemory="44742"
+	TotalPhysicalMemory="16070"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2700"
+	>
+	<Testing>
+		<StartDateTime>Feb 09 20:44 Pacific Standard Time</StartDateTime>
+		<StartTestTime>1770698660</StartTestTime>
+		<TestList/>
+		<EndDateTime>Feb 09 20:44 Pacific Standard Time</EndDateTime>
+		<EndTestTime>1770698660</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

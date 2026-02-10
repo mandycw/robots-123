@@ -194,6 +194,32 @@ int GraemeShip::SetupShip() {
     return Finalize();
 }
 
+int MandeezShip::SetupShip() {
+    SCAN();
+    IF_SEEN() {
+        // Always turn toward and pursue what we see
+        TURN_TO_SCAN();
+        IF_SCAN_LE(450) {  // within phaser range: shoot
+            IF_SHIP_CAN_FIRE_PHASER() {
+                FIRE_PHASER();
+            }
+            IF_SHIP_CAN_FIRE_PHOTON() {
+                FIRE_PHOTON();
+            }
+        }
+        THRUST(2);  // close distance if not in range
+    } ELSE() {
+        THRUST(4);
+    }
+    IF_SHIP_FUEL_LE(40) {
+        SCAN();
+        IF_SCAN_LE(200) {  // Increased from 100 - look for fuel further away
+            TURN_TO_SCAN();
+            THRUST(2);
+        }
+    }
+    return Finalize();
+}
 // ===== AstroBots game implementation =====
 AstroBots::AstroBots() {
     _currentTurn = 0;
@@ -209,6 +235,7 @@ std::vector<std::unique_ptr<ShipBase>> AstroBots::makeShips() {
     v.emplace_back(std::make_unique<DroneShip>());
     v.emplace_back(std::make_unique<MinerShip>());
     v.emplace_back(std::make_unique<GraemeShip>());
+    v.emplace_back(std::make_unique<MandeezShip>());
     return v;
 }
 

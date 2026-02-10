@@ -1,0 +1,116 @@
+[
+{
+  "directory": "C:/Users/pizza/Documents/GitHub/robots-123/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\Application.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\pizza\\Documents\\GitHub\\robots-123\\Application.cpp",
+  "file": "C:/Users/pizza/Documents/GitHub/robots-123/Application.cpp",
+  "output": "C:/Users/pizza/Documents/GitHub/robots-123/build/CMakeFiles/demo.dir/Application.cpp.obj"
+},
+{
+  "directory": "C:/Users/pizza/Documents/GitHub/robots-123/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\imgui\\imgui_demo.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\pizza\\Documents\\GitHub\\robots-123\\imgui\\imgui_demo.cpp",
+  "file": "C:/Users/pizza/Documents/GitHub/robots-123/imgui/imgui_demo.cpp",
+  "output": "C:/Users/pizza/Documents/GitHub/robots-123/build/CMakeFiles/demo.dir/imgui/imgui_demo.cpp.obj"
+},
+{
+  "directory": "C:/Users/pizza/Documents/GitHub/robots-123/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\imgui\\imgui_draw.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\pizza\\Documents\\GitHub\\robots-123\\imgui\\imgui_draw.cpp",
+  "file": "C:/Users/pizza/Documents/GitHub/robots-123/imgui/imgui_draw.cpp",
+  "output": "C:/Users/pizza/Documents/GitHub/robots-123/build/CMakeFiles/demo.dir/imgui/imgui_draw.cpp.obj"
+},
+{
+  "directory": "C:/Users/pizza/Documents/GitHub/robots-123/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\imgui\\imgui_tables.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\pizza\\Documents\\GitHub\\robots-123\\imgui\\imgui_tables.cpp",
+  "file": "C:/Users/pizza/Documents/GitHub/robots-123/imgui/imgui_tables.cpp",
+  "output": "C:/Users/pizza/Documents/GitHub/robots-123/build/CMakeFiles/demo.dir/imgui/imgui_tables.cpp.obj"
+},
+{
+  "directory": "C:/Users/pizza/Documents/GitHub/robots-123/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\imgui\\imgui_widgets.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\pizza\\Documents\\GitHub\\robots-123\\imgui\\imgui_widgets.cpp",
+  "file": "C:/Users/pizza/Documents/GitHub/robots-123/imgui/imgui_widgets.cpp",
+  "output": "C:/Users/pizza/Documents/GitHub/robots-123/build/CMakeFiles/demo.dir/imgui/imgui_widgets.cpp.obj"
+},
+{
+  "directory": "C:/Users/pizza/Documents/GitHub/robots-123/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\imgui\\imgui.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\pizza\\Documents\\GitHub\\robots-123\\imgui\\imgui.cpp",
+  "file": "C:/Users/pizza/Documents/GitHub/robots-123/imgui/imgui.cpp",
+  "output": "C:/Users/pizza/Documents/GitHub/robots-123/build/CMakeFiles/demo.dir/imgui/imgui.cpp.obj"
+},
+{
+  "directory": "C:/Users/pizza/Documents/GitHub/robots-123/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\classes\\Bit.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\pizza\\Documents\\GitHub\\robots-123\\classes\\Bit.cpp",
+  "file": "C:/Users/pizza/Documents/GitHub/robots-123/classes/Bit.cpp",
+  "output": "C:/Users/pizza/Documents/GitHub/robots-123/build/CMakeFiles/demo.dir/classes/Bit.cpp.obj"
+},
+{
+  "directory": "C:/Users/pizza/Documents/GitHub/robots-123/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\classes\\BitHolder.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\pizza\\Documents\\GitHub\\robots-123\\classes\\BitHolder.cpp",
+  "file": "C:/Users/pizza/Documents/GitHub/robots-123/classes/BitHolder.cpp",
+  "output": "C:/Users/pizza/Documents/GitHub/robots-123/build/CMakeFiles/demo.dir/classes/BitHolder.cpp.obj"
+},
+{
+  "directory": "C:/Users/pizza/Documents/GitHub/robots-123/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\classes\\Game.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\pizza\\Documents\\GitHub\\robots-123\\classes\\Game.cpp",
+  "file": "C:/Users/pizza/Documents/GitHub/robots-123/classes/Game.cpp",
+  "output": "C:/Users/pizza/Documents/GitHub/robots-123/build/CMakeFiles/demo.dir/classes/Game.cpp.obj"
+},
+{
+  "directory": "C:/Users/pizza/Documents/GitHub/robots-123/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\classes\\Sprite.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\pizza\\Documents\\GitHub\\robots-123\\classes\\Sprite.cpp",
+  "file": "C:/Users/pizza/Documents/GitHub/robots-123/classes/Sprite.cpp",
+  "output": "C:/Users/pizza/Documents/GitHub/robots-123/build/CMakeFiles/demo.dir/classes/Sprite.cpp.obj"
+},
+{
+  "directory": "C:/Users/pizza/Documents/GitHub/robots-123/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\classes\\Square.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\pizza\\Documents\\GitHub\\robots-123\\classes\\Square.cpp",
+  "file": "C:/Users/pizza/Documents/GitHub/robots-123/classes/Square.cpp",
+  "output": "C:/Users/pizza/Documents/GitHub/robots-123/build/CMakeFiles/demo.dir/classes/Square.cpp.obj"
+},
+{
+  "directory": "C:/Users/pizza/Documents/GitHub/robots-123/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\classes\\ChessSquare.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\pizza\\Documents\\GitHub\\robots-123\\classes\\ChessSquare.cpp",
+  "file": "C:/Users/pizza/Documents/GitHub/robots-123/classes/ChessSquare.cpp",
+  "output": "C:/Users/pizza/Documents/GitHub/robots-123/build/CMakeFiles/demo.dir/classes/ChessSquare.cpp.obj"
+},
+{
+  "directory": "C:/Users/pizza/Documents/GitHub/robots-123/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\classes\\Grid.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\pizza\\Documents\\GitHub\\robots-123\\classes\\Grid.cpp",
+  "file": "C:/Users/pizza/Documents/GitHub/robots-123/classes/Grid.cpp",
+  "output": "C:/Users/pizza/Documents/GitHub/robots-123/build/CMakeFiles/demo.dir/classes/Grid.cpp.obj"
+},
+{
+  "directory": "C:/Users/pizza/Documents/GitHub/robots-123/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\classes\\AstroBots.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\pizza\\Documents\\GitHub\\robots-123\\classes\\AstroBots.cpp",
+  "file": "C:/Users/pizza/Documents/GitHub/robots-123/classes/AstroBots.cpp",
+  "output": "C:/Users/pizza/Documents/GitHub/robots-123/build/CMakeFiles/demo.dir/classes/AstroBots.cpp.obj"
+},
+{
+  "directory": "C:/Users/pizza/Documents/GitHub/robots-123/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\classes\\AstroArena.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\pizza\\Documents\\GitHub\\robots-123\\classes\\AstroArena.cpp",
+  "file": "C:/Users/pizza/Documents/GitHub/robots-123/classes/AstroArena.cpp",
+  "output": "C:/Users/pizza/Documents/GitHub/robots-123/build/CMakeFiles/demo.dir/classes/AstroArena.cpp.obj"
+},
+{
+  "directory": "C:/Users/pizza/Documents/GitHub/robots-123/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\classes\\AstroCollision.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\pizza\\Documents\\GitHub\\robots-123\\classes\\AstroCollision.cpp",
+  "file": "C:/Users/pizza/Documents/GitHub/robots-123/classes/AstroCollision.cpp",
+  "output": "C:/Users/pizza/Documents/GitHub/robots-123/build/CMakeFiles/demo.dir/classes/AstroCollision.cpp.obj"
+},
+{
+  "directory": "C:/Users/pizza/Documents/GitHub/robots-123/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\imgui\\imgui_impl_dx11.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\pizza\\Documents\\GitHub\\robots-123\\imgui\\imgui_impl_dx11.cpp",
+  "file": "C:/Users/pizza/Documents/GitHub/robots-123/imgui/imgui_impl_dx11.cpp",
+  "output": "C:/Users/pizza/Documents/GitHub/robots-123/build/CMakeFiles/demo.dir/imgui/imgui_impl_dx11.cpp.obj"
+},
+{
+  "directory": "C:/Users/pizza/Documents/GitHub/robots-123/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\main_win32.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\pizza\\Documents\\GitHub\\robots-123\\main_win32.cpp",
+  "file": "C:/Users/pizza/Documents/GitHub/robots-123/main_win32.cpp",
+  "output": "C:/Users/pizza/Documents/GitHub/robots-123/build/CMakeFiles/demo.dir/main_win32.cpp.obj"
+},
+{
+  "directory": "C:/Users/pizza/Documents/GitHub/robots-123/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\imgui\\imgui_impl_win32.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\pizza\\Documents\\GitHub\\robots-123\\imgui\\imgui_impl_win32.cpp",
+  "file": "C:/Users/pizza/Documents/GitHub/robots-123/imgui/imgui_impl_win32.cpp",
+  "output": "C:/Users/pizza/Documents/GitHub/robots-123/build/CMakeFiles/demo.dir/imgui/imgui_impl_win32.cpp.obj"
+}
+]
